@@ -34,7 +34,7 @@ GarmentGrid is a web application designed to provide analytics and insights into
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone https://github.com/THEGROUP4/GarmentGrid.git`
+1. Clone the repository: `git clone https://github.com/PENDING/GarmentGrid.git`
 2. Navigate to the project directory: `cd GarmentGrid`
 3. Navigate to client: `cd client`
 4. Install dependencies: `npm install`
