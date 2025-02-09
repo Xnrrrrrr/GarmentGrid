@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=UnifrakturCook:wght@700&family=VT323&display=swap');
+
+/* Apply styles to scrollbar */
+html,
+body,
+#root,
+.app {
+    height: 100%;
+    width: 100%;
+    font-family: "Inter", sans-serif;
+}
+
+/* Customize the scrollbar */
+::-webkit-scrollbar {
+    width: 8px; /* Set the width of the scrollbar */
+}
+
+/* Track (background) */
+::-webkit-scrollbar-track {
+    background: transparent; /* Keep the track background transparent */
+}
+
+/* Handle (thumb) */
+::-webkit-scrollbar-thumb {
+    background: #151a17; /* Keep the thumb color the same */
+    border-radius: 0.5rem; /* Keep the border-radius the same */
+}
+
+/* Change thumb color on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #202723; /* Change the thumb color on hover */
+}

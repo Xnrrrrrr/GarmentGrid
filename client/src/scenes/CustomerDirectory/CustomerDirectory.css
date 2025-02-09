@@ -1,0 +1,9 @@
+.customer-directory-box-parent {
+    margin: 1.5rem 2.5rem;
+}
+
+.customer-directory-box-child {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}

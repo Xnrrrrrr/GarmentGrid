@@ -1,0 +1,9 @@
+.data-grid-toolbar-box-parent {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.data-grid-toolbar-box-parent div {
+    margin-right: 3px;
+}

@@ -1,0 +1,15 @@
+.daily-analytics-box-parent {
+    margin: 1.5rem 2.5rem
+}
+
+.daily-analytics-date-picker-box-parent {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.daily-analytics-chart-section-box-parent {
+    height: 75vh;
+    margin-top: 20px;
+}

@@ -1,0 +1,32 @@
+.sidebar-nav-items-icons {
+    font-size: 20.56px;
+}
+
+.sidebar-drawer-top-box-parent {
+    width: 100%;
+}
+
+.sidebar-drawer-bottom-box-parent {
+    position: absolute;
+    bottom: 2rem;
+}
+
+.sidebar-drawer-bottom-box-parent img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.sidebar-drawer-bottom-box-parent div {
+    text-align: left;
+}
+
+.sidebar-drawer-bottom-box-parent div span {
+    font-weight: 900;
+    font-size: 0.9rem;
+}
+
+.sidebar-drawer-bottom-box-parent div p {
+    font-size: 0.8rem;
+    font-weight: 300;
+}

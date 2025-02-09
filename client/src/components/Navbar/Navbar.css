@@ -1,0 +1,18 @@
+.navbar-user-profile-image {
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+}
+
+.navbar-user-profile-box-parent {
+    text-align: left;
+}
+
+.navbar-user-profile-first-typography-child {
+    font-weight: 900;
+    font-size: 0.8rem;
+}
+
+.navbar-user-profile-second-typography-child {
+    font-size: 0.7rem;
+}

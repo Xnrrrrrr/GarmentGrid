@@ -1,0 +1,18 @@
+.overview-box-parent {
+    margin: 1.5rem 2.5rem;
+}
+
+.overview-box-child-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.overview-box-overview-graph-container {
+    height: 60vh;
+    width: 100%;
+}
+
+.overview-view-selected-buttons-box-parent {
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,8 @@
+.transaction-ledger-box-parent {
+    margin: 1.5rem 2.5rem;
+}
+
+.transaction-ledger-box-child {
+    margin-top: 20px;
+    height: calc(80vh - 88px);
+}

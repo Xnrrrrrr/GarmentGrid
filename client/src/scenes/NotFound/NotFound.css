@@ -1,0 +1,21 @@
+.not-found{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
+
+.not-found div{
+    flex: 0 0 500px;
+}
+
+.not-found div h2{
+    text-decoration: underline;
+    text-align: center;
+    margin: auto 0;
+}
+
+.not-found div h2:hover {
+	cursor: pointer;
+	color: cyan;
+}

@@ -1,0 +1,9 @@
+.administrators-box-parent {
+    margin: 1.5rem 2.5rem;
+}
+
+.administrators-custom-toolbar-parent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
